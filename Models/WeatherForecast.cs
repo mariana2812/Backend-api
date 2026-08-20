@@ -1,6 +1,6 @@
 using System.Drawing;
 
-namespace Test4e
+namespace Test4e.models
 {
     public class Frutas
     {

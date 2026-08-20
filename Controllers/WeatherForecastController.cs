@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Test4e.models;
 
 namespace Test4e.Controllers
 {
